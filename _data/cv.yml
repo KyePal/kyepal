@@ -2,82 +2,128 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Kye Palider
     - name: Languages
-      value: English, German
+      value: English, French, Polish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in History and Philosophy of Science and Technology
+      institution: University of Toronto
+      year: 2024--Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis topic: the history and philosophy of neural networks."
+        - Coursework":" Philosophy of science (esp. models and explanation), history of philosophy of science (esp. scientific method), philosophy of biology, social epistemology, history of physics, philosophy of cognitive science, historiography, philosophy of AI.
+    - title: MITx Micromasters in Statistics and Data Science
+      institution: MIT in partnership with edX
+      year: 2023--Present
       description:
-        - Description 1.
-        - Description 2.
+        - Establishing competence in the technical and mathematical skills required for contemporary data science.
+        - Coursework":" Probability, statistics, machine learning in Python, statistical modeling and computation in applications.
+    - title: MA in Philosophy of Science
+      institution: University of Toronto
+      year: 2021--2022
+      description:
+        - Coursework":" Advanced history and philosophy of science, formal epistemology, history of computing, history of experimentation, philosophy of statistics, epistemology.
+    - title: Honours Bachelor of Arts with High Distinction, Dean's List Scholar
+      institution: University of Toronto
+      year: 2016--2021
+      description:
+        - Coursework":" Philosophy (major), history and philosophy of science (minor), mathematics (minor), physics (minor).
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI Trainer in Mathematical and Logical Reasoning
+      institution: Outlier, Scale AI (Part-Time)
+      year: 2024--Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Created thousands of mathematical and logical reasoning puzzles to stump AI models in undergraduate-level mathematics and corrected their reasoning.
+        - Reviewed and rated the work of colleagues to maintain high-quality training data.
+    - title: Ressearch Associate and Supervisor
+      institution: University of Toronto, Victoria College (Part-Time)
+      year: 2019--Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Coordinated over nine research projects with faculty, graduate students, and undergraduate students in both the history and philosophy of science with a general focus on theories of scientific change and their application to the history of science.
+        - Conducted research on the following":" the various kinds of models in science, ways of integrating history and philosophy of science, thick concepts, theory rejection, feminist philosophy of science, theories of scientific change, pseudoscience and Lysenkoism, the history of particle physics 1920--1950, Aristotelian-Medieval cosmology and theology, optics at the Keplerian turn, and the science of gender and sex.
+        - Co-designed a diagrammatic notation for the visualization of epistemic entities and relations as a project in digital humanities, resulting in a publication.
+    - title: English Editor and Software Developer
+      institution: MDPI
+      year: 2023--2024
       description:
+        - Ensured the quality of prose was maintained for articles across over 400 journals spanning virtually all scientific disciplines at the largest open-access publisher in the world.
+        - Developed a Microsoft Word add-in, and wrote its supporting documentation, for automating some of the editing process and providing tools for editors.
+    - title: Academic Editor
+      institution: Editing Press
+      year: 2022--2023
+      description:
+        - Helped over 50 academics get their research accepted into peer-reviewed journals.
+        - Provided substantive philosophical feedback on the following":" the improvement of logical argumentation, feedback on the statistics and model assumptions, the identification of areas lacking in justification, the unearthing of implicit assumptions, reorganization of the paper structure, suggestions for further research, and more.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - year: 2025
+      description:
+        - University of Toronto, IHPST. Rubric and assignment contract. Professor Ellen Abrams.
+    - year: 2025
+      description:
+        - University of Toronto, IHPST. HPS391":" History of Mathematics from the 17th century. Teaching Assistant. Dr. Sylvia Nickerson.
+    - year: 2022
+      description:
+        - University of Toronto, Department of Philosophy. PHL245":" Modern Symbolic Logic. Head Teaching Assistant. Eamon Darnell.
+    - year: 2022
+      description:
+        - University of Toronto, Department of Philosophy. PHL232":" Knowledge and Reality. Teaching Assistant. Professor Trevor Teitel.
+    - year: 2022
+      description:
+        - University of Toronto Mississauga, Department of Philosophy. PHL245":" Modern Symbolic Logic. Teaching Assistant. Jared Riggs.
+    - year: 2022
+      description:
+        - University of Toronto Mississauga, Department of Philosophy. PHL245":" Modern Symbolic Logic. Teaching Assistant. Eamon Darnell.
+    - year: 2022
+      description:
+        - University of Toronto, IHPST. HPS250":" Introduction to History and Philosophy of Science. Teaching Assistant. Dr. Fermin Fulda.
+    - year: 2022
+      description:
+        -  University of Toronto Mississauga, Department of Philosophy. PHL246":" Introduction to Inductive Logic. Teaching Assistant. Professor Jonathan Weisberg.
+    - year: 2022
+      description:
+        - University of Toronto Mississauga, Department of Philosophy. PHL355":" Philosophy of Natural Science. Teaching Assistant. Professor Alex Koo.
+    - year: 2021
+      description:
+        - University of Toronto, IHPST. HPS250":" Introduction to the History and Philosophy of Science and Technology. Teaching Assistant. Dr. Jamie Shaw.
+    - year: 2021
+      description:
+        - University of Toronto, Department of Philosophy. PHL245":" Modern Symbolic Logic. Teaching Assistant. Professor Alex Koo.
+    - year: 2020
+      description:
+        -  University of Toronto, IHPST. HPS100":" Introduction to History and Philosophy of Science. Teaching Assistant. Professor Hakob Barseghyan.
+        
+- title: Service & Editorial Work
+  type: time_table
+  contents:
+    - year: 2024--Present
+      description:
+        - Serving as one of the co-editors-in-chief for the ``Beyond Anthropocentrism'' issue of the graduate journal Spontaneous Generations.
+    - year: 2025
+      description:
+        - Co-organized the 2025 conference on Creating Sustainable Databases in the Humanities.
+    - year: 2020
+      description:
+        - Reviewed for Scientonomy":" Journal for the Science of Science.
+    - year: 2019
+      description:
+        - Reviewed for the International Association of Computing and Philosophy 2019 conference proceedings.
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2025
+      description:
+        - Ontario Graduate Scholarship ($15,000)
+
 
 - title: Academic Interests
   type: nested_list
