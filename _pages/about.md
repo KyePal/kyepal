@@ -26,6 +26,6 @@ latest_posts:
 
 I am a PhD student studying the history and philosophy of neural networks, especially its intersections with neuroscience and physics. I try to do integrated history and philosophy of science.
 
-Within history, I study several distinct disciplines, geographies and time periods: in chronological order, 19th-century electrobiology and mental philosophy in Britain, turn of the 20th century models of neurons and synapses (international), American biophysics of the nervous system, American cybernetics 1940–1960, and artificial neural networks until the present. Within these cases, Kye only follows the narrow thread of neural networks.
+Within history, I study several distinct disciplines, geographies and time periods: in chronological order, 19th-century electrobiology and mental philosophy in Britain, turn of the 20th century models of neurons and synapses (international), American biophysics of the nervous system, American cybernetics 1940–1960, and artificial neural networks until the present. Within these cases, I only follow the narrow thread of neural networks.
 
 Philosophically, I am interested in the philosophy of (modern and historical) AI, models in science (especially physics and neuroscience), connectionism, and a variety of topics in the philosophy of science.
